@@ -1,2 +1,7 @@
 main ()
 print ("my first fucntion")
+
+
+
+New func()
+return home
